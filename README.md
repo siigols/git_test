@@ -1,1 +1,2 @@
-# git_test
+Mitt første repo
+Hello Sigurd!
